@@ -1,13 +1,13 @@
 # CS-350-Emerging-System-Architecture
 
-##Summarize the project and what problem it was solving.
+## Summarize the project and what problem it was solving.
     
-##What did you do particularly well?
+## What did you do particularly well?
     
-##Where could you improve?
+## Where could you improve?
     
-##What tools and/or resources are you adding to your support network?
+## What tools and/or resources are you adding to your support network?
     
-##What skills from this project will be particularly transferable to other projects and/or course work?
+## What skills from this project will be particularly transferable to other projects and/or course work?
     
-##How did you make this project maintainable, readable, and adaptable?
+## How did you make this project maintainable, readable, and adaptable?
