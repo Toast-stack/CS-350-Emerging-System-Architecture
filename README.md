@@ -34,3 +34,6 @@ This repository contains projects developed during the CS-350 Emerging System Ar
 - **Thorough Commenting**: Provided detailed comments to document thought processes and code functionality, aiding future development and debugging.
 
 This repository showcases a journey through embedded systems projects, highlighting both accomplishments and areas for growth, while emphasizing the importance of modular design and comprehensive documentation in software development.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
